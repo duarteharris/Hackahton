@@ -1,0 +1,607 @@
+Company;Department;Job Title
+Altri;Administrative;ABA Therapist
+Ambar – Ideas on Paper S.A.;Arts & Design;Academic Advisor
+Banco Comercial Português;Business;Account Executive
+Bial;Consulting;Account Officer
+Biotecnol;Customer Services & Support;Accountant
+Caixa Geral de Depósitos;Education;Accounting Analyst
+Carris;Engineering;Accounting Assistant
+Central de Cervejas;Finance & Accounting;Accounting Clerk
+Chipidea;Healthcare;Accounting Manager
+Churchill's Port;Human Resources;Accounting Specialist
+Ciberbit;Information Technology;Accounts Payable
+Cimpor;Legal;Accounts Payable Clerk
+CMS-Helmets;Marketing;Accounts Receivable
+Cofina;Media & Communications;Accounts Receivable Specialist
+Conservas Ramirez;Military & Protective Services;Actor
+Continente;Operations;Actuary
+Corticeira Amorim;Other;Administrative Assistant
+Critical Software;Product & Project Management;Administrative Clerk
+CTT Correios de Portugal, S.A. (CTT);Research & Science;Administrative Coordinator
+Delta Cafés;Retail & Food Services;Administrative Manager
+EFACEC;Sales;Administrative Officer
+Energias de Portugal (EDP);Skilled Labor & Manufacturing;Administrative Specialist
+Fábrica Nacional de Munições de Armas Ligeiras;Transportation;Admissions Counselor
+Galp Energia;;Advertising Manager
+Glintt;;Aerospace Engineer
+Grupo José de Mello;;Analyst
+Iberomoldes;;Analytics Manager
+Impresa;;Animator
+Ironhack;;Applications Developer
+Jerónimo Martins;;Architectural Designer
+Lactogal;;Area Manager
+Logoplaste;;Area Sales Manager
+Martifer;;Art Director
+Media Capital;;Assembler
+Medinfar;;Asset Manager
+MEO;;Assistant Accountant
+Montepio;;Assistant Manager
+Mota-Engil;;Assistant Project Manager
+Move Interactive;;Assistant Property Manager
+NOS;;Assistant Store Manager
+Novabase;;Assistant Teacher
+Novo Banco;;Audit Manager
+Pingo Doce;;Auditor
+Porto Editora;;Auto Mechanic
+Portugal Telecom;;Auto Technician
+Quidgest;;Automotive Technician
+Rádio e Televisão de Portugal;;Baby Sitter
+Redes Energéticas Nacionais (REN);;Back End Engineer
+Renova;;Baker
+SAPO;;Bank Teller
+Semapa;;Banker
+SIC;;Banquet Server
+Simoldes;;Bar Manager
+Soares da Costa;;Barista
+Sonae;;Bartender
+Sonae Indústria;;Beauty Adviser
+Sovena Group;;Benefits Coordinator
+Sumol + Compal;;Billing Clerk
+Tabaqueira;;Billing Specialist
+TAP Air Portugal;;Biochemist
+Televisão Independente;;Biologist
+The Navigator Company;;Biomedical Equipment Technician
+TIMWE;;Bookkeeper
+Tranquilidade;;Branch Manager
+Tupam editores;;Brand Ambassador
+UMM;;Brand Manager
+Unicer Brewery;;Budget Analyst
+Uniplaces;;Building Maintenance Manager
+Visabeira;;Bus Driver
+Vista Alegre;;Business Administrator
+;;Business Consultant
+;;Business Developer
+;;Business Development Executive
+;;Business Development Officer
+;;Business Development Representative
+;;Business Intelligence Analyst
+;;Business Operations Manager
+;;Business Systems Analyst
+;;Busser
+;;Cable Technician
+;;CAD Designer
+;;Call Center Representative
+;;Camp Counselor
+;;Campaign Manager
+;;Car Salesman
+;;Car Salesperson
+;;Cardiologist
+;;Care Assistant
+;;Care Manager
+;;Caregiver
+;;Carpenter
+;;Case Manager
+;;Caseworker
+;;Cashier
+;;Caterer
+;;Catering Manager
+;;Certified Nursing Assistant
+;;Charge Nurse
+;;Chef
+;;Chemist
+;;Chief Of Staff
+;;Child Care Worker
+;;Chiropractor
+;;Claims Adjuster
+;;Cleaner
+;;Clerk
+;;Client Services Manager
+;;Clinic Manager
+;;Clinical Coordinator
+;;Clinical Research Associate
+;;Clinical Research Coordinator
+;;CNC Programmer
+;;Commercial Manager
+;;Communications Coordinator
+;;Communications Manager
+;;Communications Officer
+;;Compliance Officer
+;;Computer Engineer
+;;Computer Operator
+;;Computer Programmer
+;;Computer Systems Analyst
+;;Computer Technician
+;;Concierge
+;;Construction Project Manager
+;;Construction Superintendent
+;;Construction Worker
+;;Content Manager
+;;Content Writer
+;;Contract Administrator
+;;Contract Manager
+;;Contract Specialist
+;;Controls Technician
+;;Cook
+;;Coordinator
+;;Copy Editor
+;;Copywriter
+;;Corporate Recruiter
+;;Correctional Officer
+;;Cost Accountant
+;;Courtesy Clerk
+;;Creative Director
+;;Credit Controller
+;;Crew Member
+;;Custodian
+;;Customer Care Representative
+;;Customer Service Agent
+;;Customer Service Associate
+;;Customer Service Representative
+;;Customer Service Sales
+;;Customer Success Manager
+;;Data Architect
+;;Data Engineer
+;;Data Entry
+;;Data Entry Clerk
+;;Data Manager
+;;Data Scientist
+;;Daycare Teacher
+;;Dean of Students
+;;Debt Collector
+;;Deli Clerk
+;;Dental Assistant
+;;Dental Hygienist
+;;Dental Office Manager
+;;Dentist
+;;Department Manager
+;;Design Engineer
+;;Desktop Support Specialist
+;;Development Coordinator
+;;Development Director
+;;Development Manager
+;;Development Specialist
+;;DevOps Engineer
+;;Dietary Aide
+;;Digital Marketing
+;;Digital Marketing Manager
+;;Direct Support Professional
+;;Director Of Finance
+;;Director of Marketing
+;;Director Of Operations
+;;Director Of Sales
+;;Dishwasher
+;;Dispatcher
+;;District Sales Manager Retail
+;;Doctor
+;;Document Controller
+;;Dog Groomer
+;;Dog Trainer
+;;Drafter
+;;Driver
+;;Economist
+;;Editor
+;;Electrician
+;;Elementary School Teacher
+;;Employment Specialist
+;;EMT
+;;Energy Consultant
+;;Engagement Manager
+;;Engineering Manager
+;;English Teacher
+;;Enterprise Architect
+;;Environmental Engineer
+;;Environmental Scientist
+;;Epidemiologist
+;;ER Nurse
+;;ESL TESOL Teacher
+;;Esthetician
+;;Estimator
+;;Event Manager
+;;Event Planner
+;;Event Specialist
+;;Executive Assistant
+;;Executive Chef
+;;Executive Director
+;;Executive Manager
+;;Executive Producer
+;;Executive Secretary
+;;exercise physiologist
+;;Expeditor
+;;Facilities Manager
+;;Fashion Designer
+;;Field Engineer
+;;Field Service Technician
+;;File Clerk
+;;Film Crew Member
+;;Finance Assistant
+;;Finance Manager
+;;Financial Analyst
+;;Financial Consultant
+;;Firefighter
+;;Fleet Manager
+;;Flight Attendant
+;;Food And Beverage Manager
+;;Food Runner
+;;Food Server
+;;Food Service Manager
+;;Food Service Worker
+;;Foreman
+;;Forensic Scientist
+;;Forklift Operator
+;;Front Desk Agent
+;;Front Desk Clerk
+;;Front Desk Manager
+;;Front End Developer
+;;Full Charge Bookkeeper
+;;Game Designer
+;;General Manager
+;;General Surgeon
+;;Geologist
+;;Graphic Designer
+;;Grocery Clerk
+;;Groundskeeper
+;;Guest Services Representative
+;;Guidance Counselor
+;;Hair Stylist
+;;Handyman
+;;Head Cashier
+;;Health Administrator
+;;Health Educator
+;;Healthcare Consultant
+;;Heavy Equipment Operator
+;;Help Desk Technician
+;;Home Health Aide
+;;Home Health Nurse
+;;Hospitalist
+;;Host Hostess
+;;Hotel Front Desk Clerk
+;;Hotel Manager
+;;HR Administrator
+;;HR Analyst
+;;HR Business Partner
+;;HR Manager
+;;HR Specialist
+;;Industrial Engineer
+;;Infant Teacher
+;;Information Security Analyst
+;;Inside Sales Representative
+;;Instructional Designer
+;;Insurance Producer
+;;Intelligence Analyst
+;;Interior Designer
+;;Internal Auditor
+;;Internal Medicine Resident
+;;Internist
+;;Inventory Clerk
+;;Inventory Manager
+;;Inventory Specialist
+;;Investment Banker
+;;iOS Engineer
+;;IT Analyst
+;;IT Auditor
+;;IT Business Analyst
+;;IT Consultant
+;;IT Director
+;;IT Manager
+;;IT Project Manager
+;;IT Specialist
+;;IT Support
+;;IT Technician
+;;Janitor
+;;Java Developer
+;;Journalist
+;;Junior Accountant
+;;Key Holder
+;;Kindergarten Teacher
+;;Kitchen Manager
+;;Lab Assistant
+;;Lab Technician
+;;Laborer
+;;Landscape Architect
+;;Landscaper
+;;Lawyer
+;;Lead Teacher
+;;Leasing Agent
+;;Legal Assistant
+;;Legal Secretary
+;;Librarian
+;;Library Assistant
+;;Licensed Practical Nurse
+;;Licensed Vocational Nurse
+;;Lifeguard
+;;Line Cook
+;;Lineman
+;;Loan Officer
+;;Loan Processor
+;;Logistics Analyst
+;;Logistics Coordinator
+;;Logistics Manager
+;;Logistics Specialists
+;;Loss Prevention
+;;LPN
+;;Machine Operator
+;;Machinist
+;;Maintenance Assistant
+;;Maintenance Manager
+;;Maintenance Mechanic
+;;Maintenance Technician
+;;Makeup Artist
+;;Management Analyst
+;;Management Assistant
+;;Management Consultant
+;;Market Manager
+;;Market Research
+;;Market Research Analyst
+;;Marketing Analyst
+;;Marketing Assistant
+;;Marketing Associate
+;;Marketing Consultant
+;;Marketing Coordinator
+;;Marketing Intern
+;;Marketing Manager
+;;Marketing Specialist
+;;Massage Therapist
+;;Material Handler
+;;Materials Manager
+;;MDS Coordinator
+;;Mechanical Designer
+;;Mechanical Engineer
+;;Mechanical Engineering
+;;Media Planner
+;;Medical Assistant
+;;Medical Coder
+;;Medical Director
+;;Medical Office Assistant
+;;Medical Receptionist
+;;Medical Records Clerk
+;;Medical Sales Representative
+;;Medical Social Worker
+;;Medical Technologist
+;;Medical Transcriptionist
+;;Mental Health Counselor
+;;Mental Health Therapist
+;;Merchandiser
+;;Microbiologist
+;;Mobile Developer
+;;Museum Curator
+;;Music Teacher
+;;Nanny
+;;Naval Architect
+;;Neonatal Nurse
+;;Net Developer
+;;Neurologist
+;;Night Auditor
+;;Nuclear Engineer
+;;Nuclear Medicine Technologist
+;;Nurse Educator
+;;Nurse Practitioner
+;;Nursing Assistant
+;;Nursing Manager
+;;Office Assistant
+;;Office Clerk
+;;Office Coordinator
+;;Office Manager
+;;Operations Analyst
+;;Operations Assistant
+;;Operations Associate
+;;Operations Coordinator
+;;Operations Specialist
+;;Order Selector
+;;Outside Sales Representative
+;;Owner Operator
+;;Package Handler
+;;Painter
+;;Paraeducator
+;;Paraprofessional
+;;Pastor
+;;Pastry Chef
+;;Patient Account Representative
+;;Payroll Clerk
+;;Payroll Specialist
+;;Personal Assistant
+;;Personal Trainer
+;;Petroleum Engineer
+;;Pharmacy Manager
+;;Pharmacy Technician
+;;Phlebotomist
+;;Photographer
+;;PHP Developer
+;;Physical Therapist
+;;Physician
+;;Physicist
+;;Plant Manager
+;;Plumber
+;;Police Officer
+;;Policy Analyst
+;;Porter
+;;Portfolio Manager
+;;Practice Manager
+;;Prep Cook
+;;Preschool Teacher
+;;President
+;;Pricing Analyst
+;;Principal
+;;Procurement Manager
+;;Procurement Specialist
+;;Produce Clerk
+;;Product Designer
+;;Product Engineer
+;;Product Owner
+;;Production Artist
+;;Production Assistant
+;;Production Coordinator
+;;Production Planner
+;;Production Supervisor
+;;Production Worker
+;;Program Analyst
+;;Program Assistant
+;;Project Analyst
+;;Project Manager
+;;Property Manager
+;;Psychiatrist
+;;Psychologist
+;;Public Relations Specialist
+;;Publicist
+;;Purchasing Assistant
+;;Purchasing Manager
+;;QA Analyst
+;;QA Engineer
+;;Quality Assurance
+;;Quality Control Inspector
+;;Quality Control Technician
+;;Quality Engineer
+;;Quality Manager
+;;Radiation Therapist
+;;Radiology Technician
+;;Ramp Agent
+;;Real Estate Agent
+;;Real Estate Assistant
+;;Receiver
+;;Receiving Clerk
+;;Receptionist
+;;Recruiter
+;;Recruiting Coordinator
+;;Recruiting Manager
+;;Recruitment Consultant
+;;Regional Manager
+;;Regional Sales Manager
+;;Registered Nurse
+;;Registered Nurse Case Manager
+;;Registrar
+;;Relationship Banker
+;;Relationship Manager
+;;Reporting Analyst
+;;Research Analyst
+;;Research Assistant
+;;Resident Assistant
+;;Residential Counselor
+;;Respiratory Therapist
+;;Restaurant Manager
+;;Restaurant Server
+;;Retail Associate
+;;Retail Merchandiser
+;;Risk Analyst
+;;Risk Manager
+;;Roofer
+;;Safety Coordinator
+;;Safety Manager
+;;Sales Agent
+;;Sales Analyst
+;;Sales Assistant
+;;Sales Associate
+;;Sales Clerk
+;;Sales Consultant
+;;Sales Coordinator
+;;Sales Development Representative
+;;Sales Engineer
+;;Sales Executive
+;;Sales Manager
+;;Sales Operations Manager
+;;Sales Representative
+;;Sales Support
+;;Sales Support Specialist
+;;SalesForce Developer
+;;Salon Manager
+;;Scheduler
+;;School Bus Driver
+;;School Counselor
+;;School Nurse
+;;School Psychologist
+;;Scrum Master
+;;Search Engine Evaluator
+;;Secretary
+;;Security
+;;Security Analyst
+;;Security Engineer
+;;Security Guard
+;;Security Manager
+;;Security Officer
+;;Senior Accountant
+;;SEO Specialist
+;;Service Advisor
+;;Service Associate
+;;Service Coordinator
+;;Service Manager
+;;Service Technician
+;;Service Writer
+;;Shift Leader
+;;Shift Manager
+;;Shipping Clerk
+;;Slot Technician
+;;Social Media Intern
+;;Social Media Manager
+;;Software Architect
+;;Software Developer
+;;Software Engineer
+;;Solution Architect
+;;Solutions Engineer
+;;Sonographer
+;;Sous Chef
+;;Speech Language Pathologist
+;;Staff Accountant
+;;Statistician
+;;Stock Clerk
+;;Stocker
+;;Store Associate
+;;Store Clerk
+;;Store Manager
+;;Structural Engineer
+;;Student Assistant
+;;Substitute Teacher
+;;Superintendent
+;;Supervisor
+;;Supply Chain Analyst
+;;Supply Chain Manager
+;;Surgical Technologist
+;;System Administrator
+;;Systems Analyst
+;;Systems Engineer
+;;Talent Acquisition Specialist
+;;Tax Accountant
+;;Tax Manager
+;;Tax Preparer
+;;Teacher
+;;Teacher Assistant
+;;Teaching Assistant
+;;Team Leader
+;;Technical Director
+;;Technical Engineer
+;;Technical Project Manager
+;;Technical Recruiter
+;;Technical Support
+;;Technical Support Engineer
+;;Technical Support Specialist
+;;Telemarketer
+;;Teller
+;;Test Engineer
+;;Toxicologist
+;;Training Coordinator
+;;Training Manager
+;;Travel Agent
+;;Treasurer
+;;Tutor
+;;UI Designer
+;;UI Developer
+;;Underwriter
+;;Unit Secretary
+;;Universal Banker
+;;Urban Planner
+;;Usher
+;;UX Designer
+;;Valet
+;;Video Editor
+;;Visual Designer
+;;Visual Merchandiser
+;;Waiter
+;;Warehouse Worker
+;;Zookeeper
